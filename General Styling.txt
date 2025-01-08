@@ -1,4 +1,4 @@
-/* General Styling hi i am  pradeep*/
+/* General Styling */
 /* General Styling */
 body {
     font-family: Arial, sans-serif;
